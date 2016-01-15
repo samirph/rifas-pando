@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+storage/logs/
+Homestead.yaml
+Homestead.json
+.env
+bootstrap/cache/
+.env.*.php
+.env.php
+
